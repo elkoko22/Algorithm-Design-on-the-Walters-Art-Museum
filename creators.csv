@@ -1,5 +1,5 @@
 ﻿creators;;;;;;
-;id;sort_name;name;gender;nationality;CreatorArt
+;creator_id;sort_name;name;creator_gender;creator_nationality;CreatorArtwork
 female;;;;;;
 ;1889;Taylor, Eleanor;Eleanor Taylor;female;English;32540
 ;1903;Peeters, Isabella;Isabella Peeters;female;Flemish;13532, 21111
