@@ -1,12 +1,12 @@
-id,name,begin_year
-3628,Léon Bonvin (1834-1866),2022
+exhibition_id,exhibition_name,exhibition_begin_year
+3628,L?on Bonvin (1834-1866),2022
 3696,"Sargent, Whistler, and Venetian Glass: American Artists and the Magic of Murano",2021
 3735,Hugo van der Goes,2021
-3786,Quiet Beauty: The Watercolors of Léon Bonvin,2023
+3786,Quiet Beauty: The Watercolors of L?on Bonvin,2023
 3581,"Caravans of Gold, Fragments in Time: Art, Culture, and Medieval Trans-Saharan Exchange",2019
 3665,Medieval Bologna: Art for a University City,2021
 3668,Persia: Ancient Iran and the Classical World,2022
-3684,"By Her Hand: Artemisia Gentileschi and Women Artists in Italy, 1500–1800",2022
+3684,By Her Hand: Artemisia Gentileschi and Women Artists in Italy,2022
 3693,Betty Cooke: The Circle and the Line,2021
 3702,Majolica Mania,2021
 3143,Michael C,2016
@@ -18,7 +18,7 @@ id,name,begin_year
 3612,Visions of the End,2020
 3620,Greco,2019
 3629,Van Eyck,2020
-3640,Millet and Modern Art: Van Gogh to Dalí,2019
+3640,Millet and Modern Art: Van Gogh to  Dal?,2019
 3651,Chinese Snuff Bottles 2019,2018
 3652,Inventing Acadia Landscape Painting in Louisiana,2019
 3663,The Saint Francis Missal,2020
@@ -39,11 +39,11 @@ id,name,begin_year
 3606,Forgotten Realms,2019
 3611,Power of Intention,2019
 3324,Michelangelo Divine Draftsman and Designer ,2017
-3423,Fabergé and the Russian Crafts Tradition: An Empire's Legacy ,2017
-3425,"California Mexicana: Missions to Murals, 1820–1930",2017
-3434,Jean-François Millet,2017
+3423,Faberg?  and the Russian Crafts Tradition: An Empire's Legacy ,2017
+3425,California Mexicana: Missions to Murals,2017
+3434,Jean-Fran?ois Millet,2017
 3436,Secrets of the Lacquer Buddha,2017
-3445,Mariano Fortuny (1838 – 1874),2017
+3445,Mariano Fortuny (1838 � 1874),2017
 3520,The Paston Treasure: Microcosm of the Known World,2018
 3522,Sharing Images: Renaissance Prints Into Maiolica and Bronze,2018
 3524,Kwab,2018
@@ -53,13 +53,13 @@ id,name,begin_year
 3564,Chinese Snuff Bottles,2018
 3287,Unruly Nature: The Landscapes of Theodore Rousseau ,2016
 3310,A Feast for the Senses: Art and Experience in Medieval Europe,2016
-3314,Jerusalem 1000–1400: Every People Under Heaven,2016
+3314,Jerusalem 1000�1400: Every People Under Heaven,2016
 3345,In the Light of Naples: The Art of Francesco de Mura,2016
 3352,"Daubigny, Monet, Van Gogh: Impressions of Landscape",2016
 3359,High Society: The Portraits of Franz X,2015
 3362,Metamorphosis: The Studio of Rodin,2015
 3384,Small Wonders: Gothic Boxwood Miniatures ,2016
-3403,Luther! 95 people – 95 treasures,2017
+3403,Luther! 95 people � 95 treasures,2017
 3404,Della Robbia: Sculpting with Color in Renaissance Florence ,2016
 3427,"JapanAmerica: Points of Contact, 1876-1970",2016
 3431,Alfred Sisley (1839-1899): Impressionist Master,2017
@@ -72,7 +72,7 @@ id,name,begin_year
 3500,Training the Eye: 19th-Century Drawing,2017
 3504,Uncertain Times: Martin Luther's Remedies for the Soul,2017
 3562,Treasures of Yemenite Silverwork,2016
-3152,Delacroix's Influence: The Rise of Modern Art from Cézanne to van Gogh,2015
+3152,Delacroix's Influence: The Rise of Modern Art from C?zanne to van Gogh,2015
 3229,Ancient Egypt Transformed: The Middle Kingdom,2015
 3294,Pergamon and the Hellenistic Kingdoms of the Ancient World,2016
 3300,From Rye to Raphael: The Walters Story,2014
@@ -85,8 +85,8 @@ id,name,begin_year
 3366,Unfinished: Thoughts Left Visible,2016
 3383,Sotatsu: Making Waves,2015
 3390,"Madame de Pompadour, Patron and Printmaker",2016
-3391,"Gérôme and His Circle: Travel, Art, and Business in the Middle East",2015
-3392,"Henry Walters, Léon Gruel, and the Reinvention of the Medieval Manuscript ",2015
+3391,"G?r?me and His Circle: Travel, Art, and Business in the Middle East",2015
+3392,"Henry Walters, L?on Gruel, and the Reinvention of the Medieval Manuscript",2015
 3393,"Konstantin Makovsky, The Tsar's Painter",2016
 3400,"Frits Thaulow (1847-1906), Landscape Painter by Nature",2016
 3402,Ornament and Illusion: Carlo Crivelli of Venice,2015
@@ -97,7 +97,7 @@ id,name,begin_year
 3236,From Assyria to Iberia: Crossing Continents at the Dawn of the Classical Age,2014
 3240,Die Entstehung der Welt,2014
 3241,Senusret III,2014
-3246,René Lalique: Enchanted by Glass,2014
+3246,Ren? Lalique: Enchanted by Glass,2014
 3257,Marvels and Mirages of Orientalism: Benjamin-Constant and His Time,2014
 3258,Henlein-Uhrenstreit (Henlein Watch Controversy),2014
 3276,Rinehart's Studio: Rough Stone to Living Marble,2015
@@ -108,7 +108,7 @@ id,name,begin_year
 3360,From Rubens to the Grand Tour,2015
 3381,Gold of the Ancient Americas,2015
 2475,El Greco,2014
-2114,Threshold to the Sacred: The Ark Door of Cairo’s Ben Ezra Synagogue ,2013
+2114,Threshold to the Sacred: The Ark Door of Cairo�s Ben Ezra Synagogue,2013
 2235,Veronese: Magnificence in Renaissance Venice,2014
 2351,"Inventing the Modern World: Decorative Arts at World's Fairs, 1851-1939",2012
 2638,The Art of Empathy: The Cummer Mother of Sorrows in Context,2013
@@ -116,7 +116,7 @@ id,name,begin_year
 3144,Yoga: The Art of Transformation,2013
 3159,Pala Art in Tibet at the Met,2014
 3188,Exuberance of Meaning: The Art Patronage of Catherine the Great,2013
-3193,Egypt’s Mysterious Book of the Faiyum,2013
+3193,Egypt�s Mysterious Book of the Faiyum,2013
 3198,"Pontormo and Rosso Fiorentino: the different paths of ""Mannerism""",2014
 3202,Lost and Found: The Secrets of Archimedes (Traveling Exhibition),2014
 3205,The Pageant of Venice: Art and Music in the Golden Age of the Serenissima,2013
@@ -124,7 +124,7 @@ id,name,begin_year
 3222,Designed for Flowers: Contemporary Japanese Ceramics,2014
 3228,Degas/Cassatt,2014
 3230,Court and Craft: A Masterpiece from Northern Iraq,2014
-3233,Gustave Doré (1832-1883): Master of Imagination,2014
+3233,Gustave Dor? (1832-1883): Master of Imagination,2014
 3254,Bookbindings from the Gilded Age,2013
 3256,La peinture Americaine: 1830-1900 (The American Painting),2014
 3271,American Artists Abroad: Works from the Permanent Collection ,2014
@@ -140,23 +140,23 @@ id,name,begin_year
 3156,Valley of the Shadow,2012
 3179,Martin Rico (1833-1908),2012
 3181,Diadem and Dagger: Jewish Artisans of Yemen,2012
-3192,"Fabergé: Designing Luxury, from the Virgina Museum of Fine Arts",2012
+3192,"Faberg?: Designing Luxury, from the Virgina Museum of Fine Arts",2012
 3220,"Florence at the Dawn of the Renaissance: Painting and Illumination, 1300-1350",2012
 3231,"Living by the Book: Monks, Nuns, and Their Manuscripts",2013
 2173,Mummified,2008
 2250,Henry O,2012
 2444,Revealing the African Presence in Renaissance Europe,2012
 2493,Beauty and Belief: Crossing Bridges with the Arts of Islam,2012
-2496,Bohèmes,2012
+2496,Boh?mes,2012
 2639,Late Raphael,2012
 2129,Caravaggio and his Circle in Rome,2011
-2213,Eugène Delacroix,2011
-2279,Il mito della Città Ideale,2012
+2213,Eug?ne Delacroix,2011
+2279,Il mito della Citt? Ideale,2012
 2281,Jerusalem Saved! Inness and the Spiritual Landscape,2011
 2360,Chefs-d'oeuvre des derniers pharaons,2012
 2499,The Dusseldorf School of Painting-Crossing Bridges between Cultures,2011
 2673,Antico: The Golden Age of Renaissance Bronzes,2011
-2678,Théophile Gautier dans son cadre,2011
+2678,Th?ophile Gautier dans son cadre,2011
 2709,Mirror of the Buddha,2011
 2821,Transitions to Christianity,2011
 3027,"Princes and Painters in Mughal Delhi, 1707-1857",2012
@@ -165,7 +165,7 @@ id,name,begin_year
 3137,Touch and the Enjoyment of Sculpture: Exploring the Appeal of Renaissance Statuettes,2012
 3142,"All Things Round: Galazies, Eyeballs and Karma",2011
 3147,Thai Story: The Vessantara Jataka,2011
-3148,Near Paris: The Watercolors of Léon Bonvin,2012
+3148,Near Paris: The Watercolors of L?on Bonvin,2012
 3154,Hashiguichi Goyo's Beautiful Women,2012
 3168,The Place of Provenance,2012
 3171,Paradise Imagined: Images of the Garden in the Islamic and Christian World,2012
@@ -177,7 +177,7 @@ id,name,begin_year
 2987,Setting Sail: Drawings of the Sea from WAM,2011
 3160,Realistic Perfection: The Making of Oriental Ceramic Art,2011
 1983,Vishnu: Hinduism's Blue-Skinned Savior,2011
-2060,The Spectacular Art of Jean-Léon Gérôme,2010
+2060,The Spectacular Art of Jean-L?on G?r?me,2010
 2089,Heroes: Mortals and Myths in Ancient Greece,2009
 2110,"Through African Eyes: The European in African Art, 1500-Present",2010
 2113,19th Century Masterpieces from the Walters Art Museum,2010
@@ -205,7 +205,7 @@ id,name,begin_year
 1998,"Titian, Tintoretto, Veronese: Rivals in Renaissance Venice",2009
 2065,Industry of Perfection: The Refined Beauty of Japanese Cloisonne Enamels,2009
 2074,Alfred Stevens 1823-1906,2009
-2076,De la scène au tableau,2009
+2076,De la sc?ne au tableau,2009
 2079,The Early Renaissance in Siena,2010
 2083,Patron and Painter: Situ Panchen and the Encampment Style,2009
 2087,Horace Walpole's Strawberry Hill,2009
@@ -234,7 +234,7 @@ id,name,begin_year
 2045,In the Forest of Fontainebleau: Painters and Photographers from Corot to Monet,2008
 2056,Shah 'Abbas and the Three Great Shi'i Shrines of the Safavids,2009
 2059,The Saint John's Bible: A Modern Vision through Medieval Methods,2009
-2072,A Circus Family: Picasso to Léger,2009
+2072,A Circus Family: Picasso to L?ger,2009
 2085,An Antiquity of Imagination : Tullio Lombardo and Venetian High Renaissance Sculpture,2009
 2102,Portraits Re-Examined: Dawoud Bey Project,2008
 2109,Romance of the Rose: Visions of Love in Illuminated Medieval Manuscripts,2009
@@ -244,12 +244,12 @@ id,name,begin_year
 2121,Things With Wings: Mythological Figures in Ancient Greek Art,2009
 2128,Shrunken Treasures: Miniaturization in Books and Art,2009
 2817,The Special Dead: A Medieval Reliquary Revealed,2008
-2178,Déjà Vu? The Repeating Image in Renaissance and Baroque Art,2007
+2178,D?j? Vu? The Repeating Image in Renaissance and Baroque Art,2007
 2656,Painting exchange with the Springfield Museum of Art,2007
-2816,Déjà Vu? Recurrence,2007
+2816,D?j? Vu? Recurrence,2007
 128,The Early History of the Bible,2007
 1956,Untamed: The Art of Antoine-Louis Barye,2007
-1962,Déjà Vu? Revealing Repetition in French Masterpieces,2007
+1962,D?j? Vu? Revealing Repetition in French Masterpieces,2007
 1968,Pintoricchio,2008
 1972,High Society: American Portraits of the Gilded Age,2008
 1973,"The Legacy of Giotto, Art in Florence, 1340-1370",2008
@@ -319,14 +319,14 @@ id,name,begin_year
 2646,Marco Palmezzano: Il Rinascimento nelle Romagne,2005
 2648,"Corti e Città: Arte del Quattrocento nelle Alpi Occidentali (Courts and Cities, Fifteenth Century Art in the Western Alps)",2006
 2649,Raffaello,2006
-2651,Heiliges Römisches Reich Deutscher Nation 962 bis 1806,2006
+2651,Heiliges R?misches Reich Deutscher Nation 962 bis 1806,2006
 2652,Early Cycladic Art,2006
 2653,"The Princess and the Patriot: Ekaterina Dashkova, Benjamin Franklin, and the Age of Enlightenment",2006
 2655,A View Toward Paris: The Lucas Collection of Nineteenth Century French Art,2006
 2664,"Pearls of the Parrot of India: The Emperor Akbar's Illustrated ""Khamsa,"" 1597-1598",2005
 2728,The Walters' American Collection,2005
 2174,Carved for Immortality,2004
-2280,Pharao siegt immer: Krieg und Frieden im Alten Ägypten (Pharaoh is Always Winning: War and Peace in Ancient Egypt),2004
+2280,Pharao siegt immer: Krieg und Frieden im Alten ?gypten (Pharaoh is Always Winning: War and Peace in Ancient Egypt),2004
 2602,Pearls,2001
 2628,"Art from the Court of Burgundy, 1364-1419",2004
 2629,Eternal Presence: Handprints and Footprints in Buddhist Art,2004
@@ -350,7 +350,7 @@ id,name,begin_year
 2596,"Wildlife and Western Heroes: Alexander Phimister Proctor, Sculptor",2003
 2597,Coming of Age in Ancient Greece,2003
 2599,Illuminating the Renaissance: The Triumph of Flemish Manuscript Painting in Europe,2003
-2600,"Playing with Fire: European Terracotta Models, 1740-1840 (Terres cuites européennes de 1750 á 1830)",2004
+2600,"Playing with Fire: European Terracotta Models, 1740-1840 (Terres cuites europ?ennes de 1750 ? 1830)",2004
 2624,The Centaur's Smile: The Human Animal in Early Greek Art,2003
 2625,Manet and the Sea,2003
 2626,Daumier and the Art of Caricature,2003
@@ -360,7 +360,7 @@ id,name,begin_year
 10,Faience: The Colors of the Heavens,2003
 63,Byzantium: Faith and Power (1261-1557),2004
 2012,Illuminating the Word: Gospel Books in the Middle Ages,2004
-2062,The Fabergé Menagerie,2003
+2062,The Faberg? Menagerie,2003
 112,The Cross and the Crescent: Books from the Ottoman Age,2003
 173,The Artful Book: Selections from a Contemporary Collection of Books by Artists,2002
 2071,"Desire and Devotion: Art from India, Nepal, and Tibet in the John and Berthe Ford Collection",2001
@@ -373,7 +373,7 @@ id,name,begin_year
 2617,La Celeste Galleria dei Gonzaga,2002
 2623,I Faraoni (The Pharaohs),2002
 2339,"The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible",2002
-2448,Le Paysage français de Valenciennes à Bonnington,2002
+2448,Le Paysage fran?ais de Valenciennes ? Bonnington,2002
 2603,"Women Who Ruled: Queens, Goddesses, Amazons 1500-1650",2002
 2604,"Medieval Mastery, Book Illumination from Charlemagne to Charles the Bold (Meesterlijke Middeleeuwen)",2002
 2606,Vita di Michelangelo,2001
@@ -913,8 +913,8 @@ id,name,begin_year
 734,Puvis de Chavannes and the Modern Tradition,1975
 833,Prayer Rugs,1974
 38,"Medieval Art, 1060-1550",1974
-57,Illuminated Greek Manuscripts from American Collections; An Exhibition in Honor of Kurt Weitzmann,1973
-2288,Jean-Léon Gérôme,1972
+57,Illuminated Greek Manuscripts from American Collections;  An Exhibition in Honor of Kurt Weitzmann,1973
+2288,Jean-L?on G?r?me,1972
 116,Old Mistresses: Women Artists of the Past,1972
 1994,World of Wonder,1971
 2161,Alfred Jacob Miller,1971
@@ -935,7 +935,7 @@ id,name,begin_year
 335,An Exhibition of the Treasures of The Walters Art Gallery,1967
 353,Treasures from Medieval France,1966
 709,Art of Persia,1966
-2318,Eugène Isabey,1967
+2318,Eug?ne Isabey,1967
 2427,Ingres et son Temps,1967
 2670,Christmas Display at the Baltimore Gas and Electric Company,1966
 2451,"Mostra di Codici Gonzaghesch, Mantua",1966
@@ -957,12 +957,12 @@ id,name,begin_year
 2194,Our Ancient Heritage: An Exhibit of Art and Artifacts from Egypt Mesopotamia Greece Roman Empire,1963
 2257,Genoese Masters,1962
 2433,Pages from Medieval and Renaissance Illuminated Manuscripts from the 10th to the Early 15th Centuries,1963
-3105,"Eugène Delacroix, 1798-1863",1962
+3105,"Eug?ne Delacroix, 1798-1863",1962
 3119,Barbizon Revisited,1962
 647,Life and Art in Ancient Egypt,1963
 662,"The Hebrew Bible in Christian, Jewish & Muslim Art",1963
 796,The Arts of Man,1962
-840,Masterpieces of Art – Century 21 Exposition (Seattle World's Fair),1962
+840,Masterpieces of Art � Century 21 Exposition (Seattle World's Fair),1962
 2064,The International Style: The Arts in Europe Around 1400,1962
 2253,Scenes and Spectacles: The Theatre-World of the Baroque,1962
 2355,American Painting: 1857-1869,1962
@@ -1002,7 +1002,7 @@ id,name,begin_year
 382,Early Birds,1954
 489,French Pre-Impressionist Painters of the Nineteenth Century,1954
 558,American Drawings and Watercolors of the Nineteenth Century,1953
-678,The World Encompassed; An Exhibition of the History of Maps Held at the Baltimore Museum of Art,1952
+678,The World Encompassed;  An Exhibition of the History of Maps Held at the Baltimore Museum of Art,1952
 199,Egypt in the Middle Kingdom,1951
 2439,Masterpieces of Drawing,1950
 2441,French Painting 1100-1900,1951
@@ -1061,7 +1061,7 @@ id,name,begin_year
 2245,Works of the School of Ferrara-Bologna,1894
 2246,Giorgione and his Circle,1942
 2247,Renaissance Art,1923
-2252,The Fantastic Visions of Monsù Desiderio,1950
+2252,The Fantastic Visions of Mons? Desiderio,1950
 2256,Italian Painting of the Seventeenth Century,1952
 2258,Bernardo Strozzi,1967
 2260,The Ruins of Rome,1960
@@ -1115,14 +1115,14 @@ id,name,begin_year
 2404,Muse or Ego: Salon and Independent Artists of the 1880's,1963
 2406,Enamel,1954
 2408,Exposition des Peintures et Dessins de H,1878
-2409,Honoré Daumier Anniversary Exhibition,1958
+2409,Honor? Daumier Anniversary Exhibition,1958
 2411,"[Exhibition title unknown, held at Morgan State College]",1960
-2414,"D'art moderne à l'Hôtel de la Revue, Paris, 1912",1912
+2414,"D'art moderne ? l'H?tel de la Revue, Paris 1912",1912
 2415,"Exposition des Peintures, Aquarelles, Dessins et Lithographies de Maitres Francais de la Caricature et de la Peinture de Moeurs au XIX siecle",1888
 2418,"[Exhibition title unknown, held at Seton Hall University]",1961
 2419,Exhibition of Illuminated Manuscripts,1908
 2420,Exhibition of Illuminated Manuscripts,1933
-2421,"Musée Rétrospectif, Paris, 1865",1865
+2421,"Mus?e R?trospectif, Paris, 1865",1865
 2422,"Museum of Fine Arts, Boston, 1902",1902
 2426,Liturgical Objects in The Walters Art Gallery,1967
 2428,"[Exhibition title unknown, held at Galerie des Beaux-Arts]",1844
@@ -1132,7 +1132,7 @@ id,name,begin_year
 2443,Byzantine Manuscript Illumination,1957
 2447,La Caricature,1888
 2449,Monet-Rodin,1889
-2453,"Premier Exposition, Société d'Aquarellistes Français",1879
+2453,"Premier Exposition, Soci?t? d'Aquarellistes Fran?ais",1879
 2454,Tableaux et pastels par Mary Cassatt,1908
 2455,Exhibition of Impressionists,1907
 2456,"Derby, 1877",1877
@@ -1159,14 +1159,14 @@ id,name,begin_year
 2748,Japanese Cloisonne Enamels,1996
 2756,Unknown,1961
 2757,Istoricheskaia vystavka predmetov iskusstva,1904
-2819,Fabergé,1993
+2819,Faberg?,1993
 6,Millet and Barbizon Art,1996
-79,Aspects du paysage néo-classique en France de 1790 à 1855,1974
+79,Aspects du paysage n?o-classique en France de 1790 ? 1855,1974
 132,"Red Cross Exhibition, Seligmann Galleries, Paris",0
-133,Exposition rétrospective de l'art français au Trocadéro,1889
+133,Exposition r?trospective de l'art fran?ais au Trocad?ro,1889
 148,Romans and Barbarians,1976
 172,Continental Table Porcelain of the Eighteenth Century,1965
-189,Le Théatre à Paris (XVIIe-XVIIIe siècle),1929
+189,Le Th?atre ? Paris (XVIIe-XVIIIe si?cle),1929
 210,Spanish Old Masters,1913
 276,Social Concerns and the Worker: French Prints form 1830-1910,1973
 292,Again: Arms and Armor,1940
@@ -1194,15 +1194,15 @@ id,name,begin_year
 631,The Works of Antoine-Louis Barye,1889
 666,All that Glisters: Thirty Centuries of Golden Deception,1950
 677,To the Ends of the Earth with Early Explorers,1955
-682,Watercolors by the Masters: Dürer to Cézanne,1952
+682,Watercolors by the Masters: D?rer to C?zanne,1952
 808,Three Great Centuries of Venetian Glass,1958
 826,"Special Exhibition of the Works of Art of the Mediaeval, Renaissance, and More Recent Periods",1862
 902,Lalique from the Lewison Collection,1999
 906,Barye Sculpture and Drawings,1959
-913,"Honoré Daumier: Exhibition of Prints, Drawings, Watercolors, Paintings, and Sculpture",1958
+913,"Honor? Daumier: Exhibition of Prints, Drawings, Watercolors, Paintings, and Sculpture",1958
 973,Highlights from the Collection of John Gilmore Ford and Berthe Hanover Ford,2000
 974,French Master Paintings from Baltimore,2001
-2005,Exposition d’objets d’art du moyen âge et de la Renaissance,1913
+2005,Exposition d�objets d�art du moyen ?ge et de la Renaissance,1913
 2006,Sammlung E,1964
 2007,Mittelalterliche Kunst der Sammlung Kofler-Truniger,1965
 2008,Medieval Enamels: Masterpieces from the Keir Collection,1981
