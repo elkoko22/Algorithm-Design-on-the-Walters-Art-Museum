@@ -1,4 +1,4 @@
-id,name,begin_year,
+exhibition_id,exhibition_name,exhibition_begin_year,
 3628,Léon Bonvin (1834-1866),2022,
 3696,"Sargent, Whistler, and Venetian Glass: American Artists and the Magic of Murano",2021,
 3735,Hugo van der Goes,2021,
@@ -913,7 +913,7 @@ id,name,begin_year,
 734,Puvis de Chavannes and the Modern Tradition,1975,
 833,Prayer Rugs,1974,
 38,"Medieval Art, 1060-1550",1974,
-57,Illuminated Greek Manuscripts from American Collections, An Exhibition in Honor of Kurt Weitzmann,1973
+57,"Illuminated Greek Manuscripts from American Collections; An Exhibition in Honor of Kurt Weitzmann",1973
 2288,Jean-Léon Gérôme,1972,
 116,Old Mistresses: Women Artists of the Past,1972,
 1994,World of Wonder,1971,
@@ -1002,7 +1002,7 @@ id,name,begin_year,
 382,Early Birds,1954,
 489,French Pre-Impressionist Painters of the Nineteenth Century,1954,
 558,American Drawings and Watercolors of the Nineteenth Century,1953,
-678,The World Encompassed, An Exhibition of the History of Maps Held at the Baltimore Museum of Art,1952
+678,"The World Encompassed; An Exhibition of the History of Maps Held at the Baltimore Museum of Art",1952
 199,Egypt in the Middle Kingdom,1951,
 2439,Masterpieces of Drawing,1950,
 2441,French Painting 1100-1900,1951,
