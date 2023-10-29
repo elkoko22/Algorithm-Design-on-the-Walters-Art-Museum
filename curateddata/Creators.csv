@@ -1,5 +1,7 @@
 creator_id,creator_name,url,creator_gender,creato_nationality
 7870,Katherine Adams,https://art.thewalters.org/browse/creator/katherine-adams,female,
+id,name,url,gender,nationality
+7870,Katherine Adams,https://art.thewalters.org/browse/creator/katherine-adams,female, Italian
 8127,Mariia V. Adler,https://art.thewalters.org/browse/creator/mariia-v-adler,female, Russian
 5485,Sofonisba Anguissola,https://art.thewalters.org/browse/creator/sofonisba-anguissola,female, Italian
 5934,José Jiménez Aranda,https://art.thewalters.org/browse/creator/josc-jimcnez-aranda,male, Spanish
