@@ -6,6 +6,7 @@ body {
 	font-family: 'Times New Roman', Times, serif;
 	font-size: medium;
 	width: 100%;
+	margin:0;
 }
 
 body #main {
